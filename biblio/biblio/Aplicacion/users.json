@@ -1,0 +1,21 @@
+[
+    {
+        "nombre": "Yael",
+        "libros_prestados": [],
+        "penalizaciones": 0
+    },
+    {
+        "nombre": "Max",
+        "libros_prestados": [
+            "Las increibles aventuras de fuze tea"
+        ],
+        "penalizaciones": 0
+    },
+    {
+        "nombre": "Fatima",
+        "libros_prestados": [
+            "Juanito escutia"
+        ],
+        "penalizaciones": 0
+    }
+]

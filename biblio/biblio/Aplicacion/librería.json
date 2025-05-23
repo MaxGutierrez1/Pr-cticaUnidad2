@@ -1,0 +1,42 @@
+[
+    {
+        "título": "Juanito escutia",
+        "editorial": "Pejecoin",
+        "autor": "Alex",
+        "género": "Suspenso",
+        "disponibilidad": false,
+        "prestatario": "Fatima"
+    },
+    {
+        "título": "Las increibles aventuras de fuze tea",
+        "editorial": "Hidalgo",
+        "autor": "Fati",
+        "género": "Amor",
+        "disponibilidad": false,
+        "prestatario": "Max"
+    },
+    {
+        "título": "El Principito",
+        "editorial": "Salamandra",
+        "autor": "Antoine de Saint-Exupéry",
+        "género": "Literatura infantil y juvenil",
+        "disponibilidad": true,
+        "prestatario": null
+    },
+    {
+        "título": "La mecánica del corazón",
+        "editorial": "Reservoir Books",
+        "autor": "Mathias Malzieu",
+        "género": "Novela romántica / Fantasía",
+        "disponibilidad": true,
+        "prestatario": null
+    },
+    {
+        "título": "Cometas en el cielo",
+        "editorial": "Salamandra",
+        "autor": "Khaled Hosseini",
+        "género": "Drama",
+        "disponibilidad": true,
+        "prestatario": null
+    }
+]
